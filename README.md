@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acestriper
 - 👀 I’m interested in  programming  
-- 🌱 I’m currently learning The Odin Project
+- 🌱 I’m currently following and learning from The Odin Project
 - 💞️ I’m not looking to collaborate at the moment
 - 📫 How to reach me - Discord: Aboec#3395
 
